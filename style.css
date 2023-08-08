@@ -1,0 +1,23 @@
+.judul {
+    color: blue;
+}
+
+body {
+    background-image: url(bc.png
+    );
+}
+td {
+    color: red;
+}
+h2 {
+    font-family: Gabriola;
+}
+
+#background {
+    background-color: white;
+    border-radius: 35px;
+    width: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+}
